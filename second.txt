@@ -9,3 +9,5 @@
 27-06-2020  15:35                 0 second.txt
                2 File(s)            331 bytes
                2 Dir(s)  106,852,720,640 bytes free
+
+Hi Good Afternoon!!
