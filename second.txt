@@ -1,0 +1,11 @@
+ Volume in drive E has no label.
+ Volume Serial Number is E4D8-ECA5
+
+ Directory of E:\GitProjects
+
+27-06-2020  15:35    <DIR>          .
+27-06-2020  15:35    <DIR>          ..
+27-06-2020  15:33               331 first.text
+27-06-2020  15:35                 0 second.txt
+               2 File(s)            331 bytes
+               2 Dir(s)  106,852,720,640 bytes free
